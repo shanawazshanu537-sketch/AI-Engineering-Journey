@@ -6,7 +6,7 @@ print(full_name.upper().strip())
 #uppercase letters
 
 print(full_name[0:4])
-#Moha
+#Moh because spaces also indexed
 
 print(full_name[::-1])
 #zawanahs dammahom

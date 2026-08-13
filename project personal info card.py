@@ -10,7 +10,7 @@ print("PERSONAL INFO CARD")
 print("====================")
 
 print(f"Name: {user_name}")
-print(f"Age {user_age}")
+print(f"Age: {user_age}")
 print(f"in 10 years: {age_in10y}")
 print(f"hobby: {fvrt_hobby}")
 print(f"Name length: {name_length} characters ")
